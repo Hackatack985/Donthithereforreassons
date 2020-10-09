@@ -6,7 +6,7 @@
 #define TIMEOUT 15 // seconds
 #define CLIENT_PORT 19132 // port that the Xbox One attempts to connect to, do not change
 #define SERVER_PORT 19132
-#define SERVER_ADDR "exampleserver.com"
+#define SERVER_ADDR "play.nethergames.org"
 
 int main(int argc, char* argv[]) {
   int ret;
